@@ -1,0 +1,78 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:emerald",
+      "count": 1,
+      "chance": 0.01
+    },
+    {
+      "item": "minecraft:diamond",
+      "count": 1,
+      "chance": 0.01
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 1,
+      "chance": 0.01
+    },
+    {
+      "item": "minecraft:raw_iron",
+      "count": 1,
+      "chance": 0.01
+    },
+    {
+      "item": "minecraft:raw_copper",
+      "count": 1,
+      "chance": 0.01
+    },
+    {
+      "item": "minecraft:raw_gold",
+      "count": 1,
+      "chance": 0.01
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1,
+      "chance": 0.01
+    },
+    {
+      "item": "create:experience_nugget",
+      "count": 1,
+      "chance": 0.1
+    }
+  ],
+  "heatRequirement": "heated"
+}
