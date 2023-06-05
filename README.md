@@ -10,7 +10,7 @@ Dieser mod wird auf dem Offiziellen Minecraft Server von Sofaeinhorn verwendet.
 #
 #
 
-Solltest du Fragen haben dann kannst du mich gerne Kontaktieren
+Solltest du Fragen haben dann kannst du mich gerne hier Kontaktieren
 
 
 DC: Sofaeinhorn22 | Matthias#5044
