@@ -38,7 +38,7 @@
 #         * various built-in commands including «command», «set», and «ulimit».
 #
 #   Important for patching:
-#
+#+
 #   (2) This script targets any POSIX shell, so it avoids extensions provided
 #       by Bash, Ksh, etc; in particular arrays are avoided.
 #
