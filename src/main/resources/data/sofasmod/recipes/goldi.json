@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_gold"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "processingTime": 25,
+  "results": [
+    {
+      "amount": 8,
+      "item": "immersiveengineering:dust_gold"
+    }
+  ]
+}
