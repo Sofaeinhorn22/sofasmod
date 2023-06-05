@@ -84,7 +84,7 @@
     {
       "item": "create:experience_nugget",
       "count": 1,
-      "chance": 0.1
+      "chance": 0.01
     }
   ],
   "heatRequirement": "heated"
