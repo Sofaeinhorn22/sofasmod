@@ -8,11 +8,12 @@
       "item": "minecraft:sand"
     }
   ],
-  "processingTime": 25,
+  "processingTime": 150,
   "results": [
     {
       "amount": 8,
       "item": "immersiveengineering:dust_gold"
     }
-  ]
+  ],
+  "heatRequirement": "smoldering"
 }
